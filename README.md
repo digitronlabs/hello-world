@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>this is title</title>
+	<title>this is the title</title>
 </head>
 <body>
 	<h1>let's see if anything changes </h1>
